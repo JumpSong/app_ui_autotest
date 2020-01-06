@@ -1,0 +1,2 @@
+{"tag": "function", "depth": 1, "time": 1576810209.7587292, "data": {"name": "sleep", "call_args": {"secs": 2}, "start_time": 1576810207.7432418, "ret": null, "end_time": 1576810209.7587292}}
+{"tag": "function", "depth": 1, "time": 1576810209.9770896, "data": {"name": "stop_app", "call_args": {"package": "'com.wlbank_mobile_rn_app'"}, "start_time": 1576810209.805535, "ret": null, "end_time": 1576810209.9770896}}
