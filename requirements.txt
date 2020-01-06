@@ -40,7 +40,7 @@ django-import-export==1.0.0
 django-rest-swagger==2.1.2
 django-reversion==2.0.13
 django-suit==2.0a1
-djangorestframework==3.7.7
+djangorestframework==3.9.1
 docker==4.1.0
 docker-compose==1.25.0
 dockerpty==0.4.1
