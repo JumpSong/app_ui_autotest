@@ -115,7 +115,7 @@ python-gitlab==1.13.0
 pytz==2017.3
 pywin32==227
 pywinauto==0.6.3
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==18.0.1
 requests==2.22.0
 requests-ntlm==1.1.0
