@@ -113,7 +113,7 @@ python-dateutil==2.8.0
 python-docx==0.8.6
 python-gitlab==1.13.0
 pytz==2017.3
-pywin32==227
+pywin32==301
 pywinauto==0.6.3
 PyYAML==3.12
 pyzmq==18.0.1
