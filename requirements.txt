@@ -14,7 +14,7 @@ billiard==3.3.0.23
 bottle==0.12.16
 cached-property==1.5.1
 celery==3.1.26.post2
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 cigam==0.0.3
